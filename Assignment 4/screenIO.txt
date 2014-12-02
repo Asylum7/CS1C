@@ -1,0 +1,27 @@
+Hello. Please give us the last names and number of votes for five candidates.
+
+What is candidate 1's name? Jones
+How many votes does Jones have? 5000
+
+What is candidate 2's name? Frolov
+How many votes does Frolov have? 4000
+
+What is candidate 3's name? Nguyen
+How many votes does Nguyen have? 6000
+
+What is candidate 4's name? Steinberg
+How many votes does Steinberg have? 2500
+
+What is candidate 5's name? Vinton
+How many votes does Vinton have? 1800
+
+Candidate     Votes     % of Votes
+Jones          5000      25.91
+Frolov         4000      20.73
+Nguyen         6000      31.09
+Steinberg      2500      12.95
+Vinton         1800      9.33
+
+Total Votes:   19300
+
+The Winner of the election is Nguyen!

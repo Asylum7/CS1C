@@ -1,0 +1,85 @@
+*****************************************************
+* Programmed by : James Davis
+* CLASS         : CS1C
+* SECTION       : TTH: 6pm
+* Assignment #9 : Templates
+*****************************************************
+
+
+
+Enqueue ints A:
+1, 
+1, 2, 
+1, 2, 3, 
+1, 2, 3, 4, 
+1, 2, 3, 4, 5, 
+1, 2, 3, 4, 5, 6, 
+
+Dequeue ints A:
+2, 3, 4, 5, 6, 
+3, 4, 5, 6, 
+4, 5, 6, 
+5, 6, 
+
+Enqueue ints B:
+5, 6, 1, 
+5, 6, 1, 2, 
+5, 6, 1, 2, 3, 
+5, 6, 1, 2, 3, 4, 
+
+Dequeue ints B:
+6, 1, 2, 3, 4, 
+1, 2, 3, 4, 
+2, 3, 4, 
+
+Enqueue dubs A:
+1, 
+1, 2, 
+1, 2, 3, 
+1, 2, 3, 4, 
+1, 2, 3, 4, 5, 
+1, 2, 3, 4, 5, 6, 
+
+Dequeue dubs A:
+2, 3, 4, 5, 6, 
+3, 4, 5, 6, 
+4, 5, 6, 
+5, 6, 
+
+Enqueue dubs B:
+5, 6, 1, 
+5, 6, 1, 2, 
+5, 6, 1, 2, 3, 
+5, 6, 1, 2, 3, 4, 
+
+Dequeue dubs B:
+6, 1, 2, 3, 4, 
+1, 2, 3, 4, 
+2, 3, 4, 
+
+Enqueue strings A:
+James, 
+James, James, 
+James, James, James, 
+James, James, James, James, 
+James, James, James, James, James, 
+James, James, James, James, James, James, 
+
+Dequeue strings A:
+James, James, James, James, James, 
+James, James, James, James, 
+James, James, James, 
+James, James, 
+
+Enqueue strings B:
+James, James, James, 
+James, James, James, James, 
+James, James, James, James, James, 
+James, James, James, James, James, James, 
+
+Dequeue strings B:
+James, James, James, James, James, 
+James, James, James, James, 
+James, James, James, 
+
+The Queue is empty, cannot dequeue!

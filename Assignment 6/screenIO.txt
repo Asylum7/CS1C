@@ -1,0 +1,92 @@
+
+MathStudent Overloaded Constructor called.
+
+MathStudent Copy Constructor Called.
+Creating a new student with the copy constructor.
+
+Printing the student:
+
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA 
+James                | 98035769 | 25  | 661-877-8825 | M      | Sophomore | 3.50
+
+Address                   | City         | State  | Zip    
+42 Harwood Avenue         | Harwich      | MA.    | 82653  
+
+The student's name is:    James
+The student's ID is:      98035769
+The student's Age is:     25
+The student's Number is:  661-877-8825
+The student's Gender is:  M
+The student's Class is:   Sophomore 
+The student's GPA is:     3.50
+The student's Address is: 42 Harwood Avenue
+The student's City is:    Harwich
+The student's State is:   MA.
+The student's Zip is:     82653
+
+
+Changing values in the original student:
+Changing name to Tony.
+Name is now: Tony
+
+Changing ID to 45668745.
+ID is now: 45668745
+
+Changing age to 30.
+Age is now: 30
+
+Changing Phone Number to 789-456-1230.
+Phone Number is now: 789-456-1230
+
+Changing Gender to Female.
+Gender is now: F
+
+Changing name to Senior.
+Standing is now: Senior
+
+Changing GPA to 4.0.
+GPA is now: 4.00
+
+Changing Address to 19788 Nightmist.
+Address is now: 19788 Nightmist
+
+Changing City to Irvine.
+City is now: Irvine
+
+Changing State to CA.
+State is now: CA.
+
+Changing Zip 92361.
+Zip is now: 92631
+
+Printing the original student again:
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA 
+Tony                 | 45668745 | 30  | 789-456-1230 | F      | Senior    | 4.00
+
+Address                   | City         | State  | Zip    
+19788 Nightmist           | Irvine       | CA.    | 92631  
+
+Printing the copy student, should retain original values:
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA 
+James                | 98035769 | 25  | 661-877-8825 | M      | Sophomore | 3.50
+
+Address                   | City         | State  | Zip    
+42 Harwood Avenue         | Harwich      | MA.    | 82653  
+
+Copying original values from the copy student to the original student.
+
+Printing the original student, back to original values:
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA 
+James                | 98035769 | 25  | 661-877-8825 | M      | Sophomore | 3.50
+
+Address                   | City         | State  | Zip    
+42 Harwood Avenue         | Harwich      | MA.    | 82653  
+MathStudent deep copy function called.
+
+MathStudent Deconstructor called.
+
+MathStudent Deconstructor called.

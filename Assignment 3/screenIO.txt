@@ -1,0 +1,53 @@
+Printing the student:
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA  | Total   | Python?  | Date        
+------------------------------------------------------------------------------------------------------------------
+James                | 98035769 | 25  | 661-877-8825 | M      | Sophomore | 3.50 | 50      | no       | 12/15/2015  
+
+The student's name is:    James
+The student's ID is:      98035769
+The student's Age is:     25
+The student's Number is:  661-877-8825
+The student's Gender is:  M
+The student's Class is:   Sophomore
+The student's GPA is:     3.50
+The student's Total:      50
+The student knows Python: no
+The student Graduates:    12/15/2015
+
+
+Changing name to Tony.
+Name is now: Tony
+
+Changing ID to 45668745.
+ID is now: 45668745
+
+Changing age to 30.
+Age is now: 30
+
+Changing Phone Number to 789-456-1230.
+Phone Number is now: 789-456-1230
+
+Changing Gender to Female.
+Gender is now: F
+
+Changing name to Senior.
+Standing is now: Senior
+
+Changing GPA to 4.0.
+GPA is now: 4.00
+
+Changing Total Points to 456.
+Total Points are now: 456
+
+Changing Python knowledge to Yes.
+Python Knowledge is now: yes
+
+Changing graduation date to 06/15/2016.
+Grad Date is now: 6/15/2016
+
+Printing the student again:
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA  | Total   | Python?  | Date        
+------------------------------------------------------------------------------------------------------------------
+Tony                 | 45668745 | 30  | 789-456-1230 | F      | Senior    | 4.00 | 456     | yes      | 6/15/2016   

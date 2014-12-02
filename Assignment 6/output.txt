@@ -1,0 +1,34 @@
+
+Student overloaded constructor called.
+
+MathStudent Overloaded Constructor called.
+
+Student overloaded constructor called.
+
+CS1Cstudent overloaded constructor called.
+
+Student overloaded constructor called.
+
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA  | Address                   | City         | State  | Zip    
+--------------------------------------------------------------------------------------------------------------------------------------------
+Jeremy Lin           | 12456717 | 25  | 617-823-8925 | M      | Freshman  | 3.00 | 42 Harwood Avenue         | Harwich      | MA.    | 82653  
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA  | Total   | Python?  | Date      
+------------------------------------------------------------------------------------------------------------------
+James Davis          | 98035769 | 25  | 661-877-8825 | M      | Sophomore | 3.50 | 120     | yes      | 12/6/2017 
+
+Name                 | ID       | Age | Phone Number | Gender | Standing  | GPA 
+--------------------------------------------------------------------------------
+Douglas Adams        | 42424242 | 42  | 666-987-0042 | M      | Senior    | 4.20
+
+
+Student deconstructor called.
+
+CS1Cstudent deconstructor called.
+
+Student deconstructor called.
+
+MathStudent Deconstructor called.
+
+Student deconstructor called.
